@@ -7,9 +7,9 @@ Feel free to fork, or use this project as long as you credit me for my work.
 
 ---
 
-### Dependencies]
+### Dependencies
 
-- [GRUB Bootloader](https://www.gnu.org/software/grub/) as the bootloader for my operating system.
+- [GRUB Bootloader] (https://www.gnu.org/software/grub/) as the bootloader for my operating system.
 
 ### Plans
 
